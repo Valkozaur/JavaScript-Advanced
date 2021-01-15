@@ -1,0 +1,2 @@
+function Cooking(number, ...param){
+}
